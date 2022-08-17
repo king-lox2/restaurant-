@@ -2,7 +2,7 @@
 
 Fully responsive to screen sizes
 
-This project was achieved by the combination of HTML Pure CSS and JavaScript 
+This project was achieved by the combination of HTML, Pure CSS and JavaScript 
 
 
 Javascript was used to make the project dynamic you can check out the Live Site below
