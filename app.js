@@ -3,9 +3,9 @@ const data = [
 id:1,
 image:"./image/buttermilk.jpg",  
 title:"Buttermilk Pancakes",
-price:"$10.53",
+price:"$10.00",
 category:"Breakfast",
-discount: "12% off",
+discount: "17% off",
 description:"Buttermilk Pancakes are fluffy, classic pancakes perfect for any breakfast or brunch. Don’t have buttermilk on hand? We include a couple of workarounds in case you don’t have regular milk too!",
 },
 
@@ -13,9 +13,9 @@ description:"Buttermilk Pancakes are fluffy, classic pancakes perfect for any br
 id:2,
 image:"./image/tunasalad.jpg ",
 title:"Healthy Tuna Salad ",
-price:"$8.13",
+price:"$18.13",
 category:"Lunch",
-discount: "6% off",
+discount: "16% off",
 description:"Canned tuna (and other fish) can be used in sandwiches, salads, casseroles, pasta, and so much more. A classic tuna melt is a no-brainer or make our Tuna Salad Sandwich Healthy Tuna Salad ",
 },
 
